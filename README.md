@@ -7,9 +7,9 @@
 </h3>
  </main>
     <img src="https://yesasia.b-cdn.net/wp-content/uploads/2022/10/1665093745-untitled-1-700x438.jpg"height=600px
-    <p style="font-size:20px"><h4>К-поп та корейська культура продовжують захоплювати світ, що призводить до того, що зростає кількість покупців альбомів айдолів. Популярні виконавці легко продають понад 1 мільйон копій альбомів з кожним камбеком і список «груп-мільйонників» продовжує поповнюватися новими іменами. Цього року навіть дівочі гурти легше досягають цього числа. 
+  <p style="font-size:40px"><h3><i>К-поп та корейська культура продовжують захоплювати світ, що призводить до того, що зростає кількість покупців альбомів айдолів. Популярні виконавці легко продають понад 1 мільйон копій альбомів з кожним камбеком і список «груп-мільйонників» продовжує поповнюватися новими іменами. Цього року навіть дівочі гурти легше досягають цього числа. 
 
-Отже, ось артисти, які продали понад 1 мільйон копій у 2022 році!</h4> </p>
+Отже, ось артисти, які продали понад 1 мільйон копій у 2022 році!</i></h3> </p>
 <h3> 1:BTS</h3> <img src="https://play-lh.googleusercontent.com/hGy6TRJW6WUBQIdJvhThkQrB62ZYrCh1lahvGbBnc9ap5caelQAETF8qcG9lu_fHi_GvT6b1ZA=w3840-h2160-rw" height="550px"/>
  <h3>2:BLACKPINK </h3> <img src="https://6.viki.io/image/4c6acf107c2745e88579ef59cdef5ec4/dummy.jpeg?s=900x600&e=t" height="550px"/>
  <h3> 3: aespa </h3><img src="https://www.nme.com/wp-content/uploads/2022/07/aespa-girls-concept-photo-released-later.jpg" height="400px"/>
@@ -20,12 +20,11 @@
  <h3> 8: ITZY </h3> <img src="https://www.allkpop.com/upload/2022/08/content/051051/web_data/allkpop_1659712519_untitled-1.jpg" height="550px"/>
  <h3> 9: Enhypen </h3> <img src="https://assets.teenvogue.com/photos/5fd6e22cd0633f215113055d/master/pass/ENHYPEN_DUSK_Photo%20Courtesy%20BELIFT%20LAB_1.jpg" height="550px"/>
  <h3> 10: IVE </h3> <img src="https://www.rappler.com/tachyon/2022/07/ive-comeback.png" height="550px"/>
-  <table style="border:2px solid #FF6347;font-size:35px">
+ <h3> <table align="center" style="border:2px solid #FF6347;background-color:	#FAEBD7">
         <tr>
             <td style="border:3px solid #FF6347;">K-pop гурт:</td>
             <td style="border:3px solid #FF6347;">Альбом:</td>
             <td style="border:3px solid #FF6347;">Кількість проданих копій:</td>
-        
         </tr>
         <tr>
             <td style="border:3px solid #FF6347;">ВTS</td>
@@ -78,7 +77,9 @@
             <td style="border:3px solid #FF6347;">1,1M</td>
         </tr>
      </table> 
+     </h3> 
  <footer style="background-color:#E9967A;color:black;">
-        <p style="font-size:15px"> Автор: katelvii </p>
+        <p style="font-size:15px"> Автор: katelvii,
+            тел: 001144881</p>
       </footer>
 </html>
