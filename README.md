@@ -20,7 +20,7 @@
  <h3> 8: ITZY </h3> <img src="https://www.allkpop.com/upload/2022/08/content/051051/web_data/allkpop_1659712519_untitled-1.jpg" height="550px"/>
  <h3> 9: Enhypen </h3> <img src="https://assets.teenvogue.com/photos/5fd6e22cd0633f215113055d/master/pass/ENHYPEN_DUSK_Photo%20Courtesy%20BELIFT%20LAB_1.jpg" height="550px"/>
  <h3> 10: IVE </h3> <img src="https://www.rappler.com/tachyon/2022/07/ive-comeback.png" height="550px"/>
- <h3> <table align="center" style="border:2px solid #FF6347;background-color:	#FAEBD7">
+ <h3> <table align="center" style="border:2px solid #FF6347;background-color:#FAEBD7">
         <tr>
             <td style="border:3px solid #FF6347;">K-pop гурт:</td>
             <td style="border:3px solid #FF6347;">Альбом:</td>
